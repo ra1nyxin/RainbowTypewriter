@@ -1,0 +1,25 @@
+# F# project files
+*.fsproj.user
+*.fsproj.vspscc
+
+# Build artifacts
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+
+# NuGet packages
+.nuget/
+packages/
+
+# Rider
+.idea/
+
+# Other common ignores
+*.suo
+*.user
+*.bak
+*.log
+[Bb]in/
+[Oo]bj/
